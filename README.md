@@ -18,8 +18,8 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-### Register no-212223230081
-### Developed By-INIYASRI S
+### Register no-212223040163
+### Developed By-Rahul V
 
 ```
 import seaborn as sns
